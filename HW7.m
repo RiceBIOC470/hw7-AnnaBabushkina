@@ -11,7 +11,7 @@
 % of the order of the polynomial. 
 % Part 4. Repeat parts 1 - 3 for D = 10 and D = 1000. Comment on the
 % results. 
-% Part 5. Now repeat parts 1-3 but take values for x on the interval 0 < x <=
+% Part 5. Now repeat parts 1-3 but take 100  values for x on the interval 0 < x <=
 % 10. Comment on the results. 
 
 % Problem 2. Basic statistics. 
